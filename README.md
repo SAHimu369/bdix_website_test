@@ -1,4 +1,5 @@
-# bdix_website_test [![Version][version-badge]][version-link] [![Build Status][workflow-badge]][workflow-link] [![Coverage][coverage-badge]][coverage-link] [![MIT License][license-badge]](LICENSE.md)
+# bdix_website_test
+[![Version][version-badge]][version-link] [![Build Status][workflow-badge]][workflow-link] [![MIT License][license-badge]](LICENSE.md)
 
 *bdix_website_test* is a magnificent app devlop by Ai and SAHimu
 
@@ -32,16 +33,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 Project License can be found [here](LICENSE.md).
 
 
-[version-badge]:   https://img.shields.io/pypi/v/thefuck.svg?label=version
-[version-link]:    https://pypi.python.org/pypi/thefuck/
-[workflow-badge]:  https://github.com/nvbn/thefuck/workflows/Tests/badge.svg
-[workflow-link]:   https://github.com/nvbn/thefuck/actions?query=workflow%3ATests
-[coverage-badge]:  https://img.shields.io/coveralls/nvbn/thefuck.svg
-[coverage-link]:   https://coveralls.io/github/nvbn/thefuck
+[version-badge]:   https://img.shields.io/badge/Version-v_0.3-blue
+[version-link]:    
+[workflow-badge]:  https://img.shields.io/badge/Test-pass-green
+[workflow-link]:   
 [license-badge]:   https://img.shields.io/badge/license-MIT-007EC7.svg
-[examples-link]:   https://raw.githubusercontent.com/nvbn/thefuck/master/example.gif
-[instant-mode-gif-link]:   https://raw.githubusercontent.com/nvbn/thefuck/master/example_instant_mode.gif
-[homebrew]:        https://brew.sh/
 
 ##### [Back to Contents](#contents)
 
