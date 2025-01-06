@@ -18,6 +18,7 @@
 ## Requirements
 - python (3.5+)
 - pip
+- google sheet or microsoft office excel
 
 ## installation
 - no installation requires
