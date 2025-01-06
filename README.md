@@ -1,9 +1,6 @@
 # bdix_website_test [![Version][version-badge]][version-link] [![Build Status][workflow-badge]][workflow-link] [![Coverage][coverage-badge]][coverage-link] [![MIT License][license-badge]](LICENSE.md)
 
-*The Fuck* is a magnificent app, inspired by a [@liamosaur](https://twitter.com/liamosaur/)
-[tweet](https://twitter.com/liamosaur/status/506975850596536320),
-that corrects errors in previous console commands.
-
+*bdix_website_test* is a magnificent app devlop by Ai and SAHimu
 
 Is *The Fuck* too slow? [Try the experimental instant mode!](#experimental-instant-mode)
 
