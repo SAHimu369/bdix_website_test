@@ -2,7 +2,7 @@
 
 *bdix_website_test* is a magnificent app devlop by Ai and SAHimu
 
-https://github.com/SAHimu369/bdix_website_test/blob/main/SS.PNG
+![Image](SS.PNG)
 
 More examples:
 
