@@ -2,9 +2,7 @@
 
 *bdix_website_test* is a magnificent app devlop by Ai and SAHimu
 
-Is *The Fuck* too slow? [Try the experimental instant mode!](#experimental-instant-mode)
-
-[![gif with examples][examples-link]][examples-link]
+https://github.com/SAHimu369/bdix_website_test/blob/main/SS.PNG
 
 More examples:
 
