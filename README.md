@@ -11,31 +11,30 @@
 2. [Installations](#installation)
 3. [Updating](#updating)
 4. [How it works](#how-it-works)
-5. [Creating your own rules](#creating-your-own-rules)
-6. [Settings](#settings)
-7. [Third party packages with rules](#third-party-packages-with-rules)
-8. [Experimental instant mode](#experimental-instant-mode)
-9. [Developing](#developing)
-10. [License](#license-mit)
+5. [Developing](#developing)
+6. [License](#license-mit)
 
 ## Requirements
-
 - python (3.5+)
 - pip
 
-##### [Back to Contents](#contents)
+## installation
+- no installation requires
+
+## updating
+- ui update
+
+## how-it-works
+test all website then give you ping and download speed. you can save the test result on .xlsx file. from file or on the app you can filter best download speed website and open it on browser.
 
 ## Developing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+app fully devlop by ai and SAHimu
 
 ## License MIT
 Project License can be found [here](LICENSE.md).
-
 
 [version-badge]:   https://img.shields.io/badge/Version-v_0.3-blue  
 [workflow-badge]:  https://img.shields.io/badge/Test-pass-green
 [license-badge]:   https://img.shields.io/badge/license-MIT-007EC7.svg
 
-##### [Back to Contents](#contents)
 
