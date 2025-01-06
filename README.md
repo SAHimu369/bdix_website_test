@@ -1,5 +1,5 @@
 # bdix_website_test
-[![version-badge]] [![workflow-badge]] [![license-badge]]
+[![version-badge] [![workflow-badge] [![license-badge]
 (LICENSE.md)
 
 *bdix_website_test* is a magnificent app devlop by Ai and SAHimu
@@ -34,10 +34,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 Project License can be found [here](LICENSE.md).
 
 
-[version-badge]:   https://img.shields.io/badge/Version-v_0.3-blue
-[version-link]:    
+[version-badge]:   https://img.shields.io/badge/Version-v_0.3-blue  
 [workflow-badge]:  https://img.shields.io/badge/Test-pass-green
-[workflow-link]:   
 [license-badge]:   https://img.shields.io/badge/license-MIT-007EC7.svg
 
 ##### [Back to Contents](#contents)
