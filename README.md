@@ -1,5 +1,5 @@
 # bdix_website_test
-[![version][version-badge]] [![workflow-badge]] [![MIT License][license-badge]](LICENSE.md)
+[version-badge] [workflow-badge] [license-badge](LICENSE.md)
 
 *bdix_website_test* is a magnificent app devlop by Ai and SAHimu
 
