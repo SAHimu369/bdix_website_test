@@ -16,7 +16,7 @@
 7. [websites](website)
 
 ## Requirements
-- python (3.5+)
+- python (3.1+)
 - pip
 - google sheet or microsoft office excel
 
