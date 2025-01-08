@@ -27,7 +27,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install --upgrade pip
-        pip install -r requirements.txt  # Make sure to list all required libraries in requirements.txt
+        pip install -r requirements.txt  # Ensure this file is in your repo
 
     # Step 4: Run the Python script
     - name: Run speed test script
