@@ -22,6 +22,7 @@
 - PyQt5
 - openpyxl
 - qtawesome
+- Qt
 - google sheet or microsoft office excel
 
 ## installation
