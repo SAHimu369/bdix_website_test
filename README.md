@@ -18,6 +18,10 @@
 ## Requirements
 - python (3.1+)
 - pip
+- ping3
+- PyQt5
+- openpyxl
+- qtawesome
 - google sheet or microsoft office excel
 
 ## installation
