@@ -1,0 +1,5 @@
+requests
+ping3
+PyQt5
+openpyxl
+qtawesome
