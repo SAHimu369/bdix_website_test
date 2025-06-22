@@ -26,7 +26,12 @@
 - google sheet or microsoft office excel
 
 ## installation
-- no installation requires
+- pip install requests
+- pip install ping3
+- pip install PyQt5
+- pip install qtawesome
+- pip install openpyxl
+- pip install webbrowser
 
 ## updating
 - ui update
