@@ -1,4 +1,5 @@
 ftp://172.20.0.19/
+http://1cinevood.asia/
 http://10.1.1.1/
 http://10.1.1.3/
 http://10.10.0.1/
@@ -271,10 +272,12 @@ http://4gnetworkbd.com/
 http://58.84.34.38/
 http://59.152.101.198/
 http://59.153.100.77/
+https://9anime.to/
 http://abcflixbd.com/
 http://abcmoviebd.com/
 http://abcmoviesbd.com/
 http://abohomanbangla.com/
+https://actvid.rs/
 http://addanetwork.net/
 http://adharalo.com/
 http://agcommunication.net/
@@ -396,6 +399,7 @@ http://ddnbd.fun/
 http://ddnstreaming.com:8096/
 http://dekhobd.net/
 http://deshonlinebd.com/
+http://desiremovies.cologne/
 http://dflix.live/
 http://dhakaiptv.com/
 http://dhakamovie.com/
@@ -434,6 +438,7 @@ http://fn-bd.com/
 http://fnet.com.bd/
 http://focusonlinectg.com/
 http://fojik.com/
+https://freedrivemovie.com/
 http://freemediabd.com/
 http://friendsonlinebd.com/
 http://fs.amrbd.com/
@@ -462,11 +467,13 @@ http://genvideos.org/
 http://gk-network.net/
 http://globalbanglatv.com/
 http://gnetinternet.com/
+https://goku.sx/
 http://goldscine.online/
 http://gpisp.net/
 http://greetingsonlinebd.com/
 http://halum.net/
 http://hasikhushi.net/
+http://hdhub4u.gl/
 http://hdiflix.top/
 http://hdtv.rangdhanu.live/
 http://hfs.midiplex.net/
@@ -556,6 +563,7 @@ http://movies.discoveryftp.net/
 http://movies.fnfonlinebd.com/
 http://movies.romsnetwork.com/
 http://movies.romsnetwork.com/live-tv/
+https://moviesdada.run/
 http://movieserver.net/
 http://movieshdwatch.to/
 http://moviesonlinewatch.com.pk/
@@ -609,6 +617,7 @@ http://plusbox.tv/
 http://plusnetbd.com/
 http://pollyflix.com/
 http://presslinkbd.net/
+http://proxydb.net/
 http://quickonlineftp.com/
 http://radiantbd.net/
 http://radio.net.bd/
@@ -710,12 +719,14 @@ http://tv.tetrasoftbd.com/
 http://tv.xplorenetbd.com/
 http://tv2.ebox.live/
 http://tv24bd.com/lander
+https://vegamovies.td/
 http://unique24.net/
 http://uniquedownloadbd.com/
 http://uniqueonlinebd.com/
 http://updatenetworkbd.com/
 http://uturninternet.com/
 http://vdomela.com/
+https://vidsrc.to/
 http://vibebd.com/
 http://visiontechnologiesltd.com/
 http://webtvbd.com/
