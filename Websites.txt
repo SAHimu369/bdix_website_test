@@ -409,6 +409,7 @@ http://discoveryftp.net/
 http://dl.ctgfun.com/
 http://dnftpbd.com/
 http://dnnetdrive.com/
+https://dot-ftp-index.netlify.app
 http://dugdugilive.com/
 http://durbinlive.com/
 http://easydownloadbd.com/
@@ -433,6 +434,7 @@ http://filmon.tv/
 http://firstrow.eu/
 http://flix.bdtype.com/
 http://flixhub.net/
+https://fmftp.net/
 http://fmovies.to/
 http://fn-bd.com/
 http://fnet.com.bd/
@@ -467,6 +469,7 @@ http://genvideos.org/
 http://gk-network.net/
 http://globalbanglatv.com/
 http://gnetinternet.com/
+https://goojara.is/
 https://goku.sx/
 http://goldscine.online/
 http://gpisp.net/
@@ -554,6 +557,7 @@ http://moon2tv.webs.com/
 http://movie.basnetbd.com/
 http://movie.ctgfun.com/
 http://movie.sambd.net/
+https://moviebox.ph/
 http://moviefreak.xyz/
 http://moviehaat.net/
 http://moviemazic.xyz/
