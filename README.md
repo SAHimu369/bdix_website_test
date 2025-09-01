@@ -1,55 +1,143 @@
-# bdix_website_test
-![version-badge] ![workflow-badge] ![license-badge]
+# BDIX Speed Test Application
 
-*bdix_website_test* is a magnificent app devlop by Ai and SAHimu
+A Python-based GUI application for testing network speeds (ping and download) for multiple URLs, specifically designed for BDIX (Bangladesh Internet Exchange) network testing.
 
-![Image](SS01.PNG) ![Image](SS02.PNG) ![Image](SS03.PNG)
+![Python](https://img.shields.io/badge/Python-3.7%252B-blue) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey) ![License](https://img.shields.io/badge/License-MIT-green) ![GUI](https://img.shields.io/badge/GUI-PyQt5-green)
 
-## Contents
+---
 
-1. [Requirements](#requirements)
-2. [Installations](#installation)
-3. [Updating](#updating)
-4. [How it works](#how-it-works)
-5. [Developing](#developing)
-6. [License](#license-mit)
-7. [websites](website)
+## Features
+
+- 📊 Test ping and download speeds for multiple URLs  
+- 📁 Load URLs from text files  
+- 💾 Save results to Excel format  
+- 🎨 User-friendly PyQt5 interface  
+- 📝 Comprehensive error logging  
+- ⏯️ Start/Stop testing functionality  
+- 🌐 Direct URL opening from results  
+- 🎯 Color-coded results based on performance  
+- 📈 Real-time progress tracking  
+
+---
+
+## Screenshot
+
+![BDIX Speed Test Application](https://via.placeholder.com/800x500/2d2d2d/ffffff?text=BDIX+Speed+Test+Application)  
+*Application interface with dark theme and results table*
+
+---
 
 ## Requirements
-- python (3.1+)
-- pip
-- ping3
-- PyQt5
-- openpyxl
-- qtawesome
-- Qt
-- google sheet or microsoft office excel
 
-## installation
-- pip install requests
-- pip install ping3
-- pip install PyQt5
-- pip install qtawesome
-- pip install openpyxl
-- pip install webbrowser
+### System Requirements
 
-## updating
-- ui update
+- Windows 7, 8, 10, or 11  
+- Python 3.7 or newer  
+- 4GB RAM (recommended)  
+- 500MB free storage space  
+- Internet connection  
 
-## how-it-works
-test all website then give you ping and download speed. you can save the test result on .xlsx file. from file or on the app you can filter best download speed website and open it on browser.
+### Python Dependencies
 
-## Developing
-app fully devlop by ai and SAHimu
+- `requests >= 2.28.0`  
+- `ping3 >= 4.0.0`  
+- `PyQt5 >= 5.15.0`  
+- `openpyxl >= 3.0.0`  
 
-## License MIT
-Project License can be found [here](LICENSE.md).
+---
 
-## website
-more then 746 website added.
+## Installation
 
-[version-badge]:   https://img.shields.io/badge/Version-v_0.6-%23007bff?style=flat&label=Version
-[workflow-badge]:  https://img.shields.io/badge/Test-pass-green
-[license-badge]:   https://img.shields.io/badge/license-MIT-007EC7.svg
+### Method 1: Manual Installation
 
+1. Install Python (if not already installed)  
+   - Download from [python.org](https://www.python.org/)  
+   - During installation, check **Add Python to PATH**  
 
+2. Download the application  
+   - Download the ZIP file from GitHub and extract it  
+   - Or clone the repository:
+     ```bash
+     git clone https://github.com/yourusername/bdix-speed-test.git
+     cd bdix-speed-test
+     ```
+
+3. Install required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+   Or individually:
+    ```bash
+    pip install requests ping3 PyQt5 openpyxl
+    ```
+
+### Method 2: Using the Installer Script (Windows)
+
+1. Download the application files  
+2. Double-click `install_requirements.bat` to install dependencies  
+3. Double-click `Run Speed Test.bat` to launch the application  
+
+---
+
+## Usage
+
+### Running the Application
+
+- Using Python:
+    ```bash
+    python bdix_speed_test.py
+    ```
+- Using the batch file (Windows):
+    - Double-click `Run Speed Test.bat`  
+
+### Preparing URL Files
+
+- Create a text file with URLs to test (one URL per line):
+    ```text
+    http://example.com/file1.zip
+    http://example.com/file2.zip
+    https://example.com/file3.zip
+    ```
+
+### Application Workflow
+
+1. Click **Choose File** to select your URL list  
+2. Click **Start Test** to begin testing  
+3. Monitor progress in the progress bar  
+4. View results in the table (color-coded by performance):
+   - Green: Good performance  
+   - Orange: Average performance  
+   - Red: Poor performance  
+5. Save results to Excel using **Save Results** button  
+6. Click on any URL to open it in your browser  
+7. Use **Stop Test** to cancel ongoing testing  
+
+---
+
+## Building an Executable
+
+To create a standalone executable (no Python installation required):
+
+1. Install PyInstaller:
+    ```bash
+    pip install pyinstaller
+    ```
+2. Build the executable:
+    ```bash
+    pyinstaller --onefile --windowed --name "BDIX Speed Test" bdix_speed_test.py
+    ```
+3. The executable will be in the `dist` folder  
+
+---
+
+## File Structure
+
+```text
+bdix-speed-test/
+├── bdix_speed_test.py         # Main application file
+├── requirements.txt           # Python dependencies
+├── install_requirements.bat   # Windows installer script
+├── Run Speed Test.bat         # Windows launcher
+├── icon.png                   # Application icon (optional)
+├── speed_test.log             # Log file (generated at runtime)
+└── README.md                  # This file
