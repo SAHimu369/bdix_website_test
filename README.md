@@ -3,7 +3,7 @@
 
 *bdix_website_test* is a magnificent app devlop by Ai and SAHimu
 
-![Image](SS.PNG)
+![Image](SS01.PNG) ![Image](SS02.PNG) ![Image](SS03.PNG)
 
 ## Contents
 
