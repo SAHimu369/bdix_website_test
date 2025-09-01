@@ -43,8 +43,10 @@ A Python-based GUI application for testing network speeds (ping and download) fo
 - `requests >= 2.28.0`  
 - `ping3 >= 4.0.0`  
 - `PyQt5 >= 5.15.0`  
-- `openpyxl >= 3.0.0`  
-
+- `openpyxl >= 3.0.0`
+- `qtawesome`
+- `Qt`
+  
 ---
 
 ## Installation
