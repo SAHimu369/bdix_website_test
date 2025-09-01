@@ -23,6 +23,7 @@ A Python-based GUI application for testing network speeds (ping and download) fo
 ## Screenshot
 
 ![Image](SS01.PNG) ![Image](SS02.PNG) ![Image](SS03.PNG)
+
 *Application interface with dark theme and results table*
 
 ---
@@ -104,10 +105,7 @@ A Python-based GUI application for testing network speeds (ping and download) fo
 1. Click **Choose File** to select your URL list  
 2. Click **Start Test** to begin testing  
 3. Monitor progress in the progress bar  
-4. View results in the table (color-coded by performance):
-   - Green: Good performance  
-   - Orange: Average performance  
-   - Red: Poor performance  
+4. View results in the table:
 5. Save results to Excel using **Save Results** button  
 6. Click on any URL to open it in your browser  
 7. Use **Stop Test** to cancel ongoing testing  
