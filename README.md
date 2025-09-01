@@ -22,7 +22,7 @@ A Python-based GUI application for testing network speeds (ping and download) fo
 
 ## Screenshot
 
-![BDIX Speed Test Application](https://via.placeholder.com/800x500/2d2d2d/ffffff?text=BDIX+Speed+Test+Application)  
+![Image](SS01.PNG) ![Image](SS02.PNG) ![Image](SS03.PNG)
 *Application interface with dark theme and results table*
 
 ---
