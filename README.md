@@ -48,8 +48,7 @@ Project License can be found [here](LICENSE.md).
 ## website
 more then 746 website added.
 
-[version-badge]:   [https://img.shields.io/badge/Version-v_0.3-blue](https://img.shields.io/badge/Version-v_0.6-%23007bff?style=flat&label=Version
-)  
+[version-badge]:   https://img.shields.io/badge/Version-v_0.6-%23007bff?style=flat&label=Version
 [workflow-badge]:  https://img.shields.io/badge/Test-pass-green
 [license-badge]:   https://img.shields.io/badge/license-MIT-007EC7.svg
 
