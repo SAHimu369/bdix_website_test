@@ -61,8 +61,8 @@ A Python-based GUI application for testing network speeds (ping and download) fo
    - Download the ZIP file from GitHub and extract it  
    - Or clone the repository:
      ```bash
-     git clone https://github.com/yourusername/bdix-speed-test.git
-     cd bdix-speed-test
+     git clone https://github.com/SAHimu369/bdix_website_test
+     cd bdix-website-test
      ```
 
 3. Install required packages:
