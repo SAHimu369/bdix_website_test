@@ -3,4 +3,3 @@ ping3
 PyQt5
 openpyxl
 qtawesome
-Qt
